@@ -9,4 +9,8 @@
 C:/Users/Erich Ostendarp/Workspace/CLionProjects/Mandelbrot/main.cpp
 cstdio
 -
+sstream
+-
+fstream
+-
 
